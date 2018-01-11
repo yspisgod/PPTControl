@@ -1,0 +1,4 @@
+我使用的是 python3
+run.bat是windows脚本用来执行click.py
+
+代码里的module没有提供，要自己通过 pip install <模块名>   安装
